@@ -1,0 +1,6 @@
+boto3
+typer
+rich
+graphviz
+fpdf
+networkx
