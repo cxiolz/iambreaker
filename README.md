@@ -3,7 +3,6 @@
 **Offensive IAM Analyzer for AWS**  
 _Uncover privilege escalation paths, misconfigurations and exploitable trust relationships across IAM components._
 
-![License](https://img.shields.io/github/license/seunome/IAMBreaker)  
 ![Python](https://img.shields.io/badge/python-3.11+-blue)  
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 
